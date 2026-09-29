@@ -20,7 +20,7 @@ I am a passionate **Computer Engineering graduate** with a strong background in 
 
 ### 📂 Projects
 
-#### 🔹 Underwater Image Annotation Using AI
+#### 🔹 Uncertainty active learning approach for underwater image using non-probabilistics linear classifier
 *Tech Stack: Python, SVM, OpenCV, Machine Learning*
 - Developed an **SVM-based classifier** for underwater image annotation.
 - Implemented **active learning techniques** to improve annotation accuracy.
